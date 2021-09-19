@@ -1,5 +1,5 @@
 # Chess Puzzle Twitter Bot
-![](README/Chess-Puzzle-Twitter-Bot.png)
+![](https://github.com/aaronrausch/Chess-Puzzles-Twitter-Bot/blob/main/Chess-Puzzle-Twitter-Bot.png)
 
 This bot posts puzzles that are randomly selected from the open-source Lichess puzzle database.  The caption of each puzzle provides information, along with a direct link.
 
